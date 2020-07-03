@@ -1,9 +1,3 @@
-<project>
-  ...
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  ...
 </project>
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -16,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>11</maven.compiler.release>
     </properties>
     <build>
