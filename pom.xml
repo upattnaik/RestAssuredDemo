@@ -7,9 +7,12 @@
     <groupId>groupId</groupId>
     <artifactId>RestAssuredDemo1</artifactId>
     <version>1.0-SNAPSHOT</version>
+     
 
     <properties>
         <maven.compiler.release>11</maven.compiler.release>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
     <build>
         <pluginManagement>
